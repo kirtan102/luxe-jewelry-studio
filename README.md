@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="./terminal-adaptive_1.svg" alt="terminal" width="560" />
+<img src="./name-banner-keystroke.svg" alt="terminal" width="560" />
 
 </div>
 
