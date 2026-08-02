@@ -20,19 +20,15 @@
 
 <br>
 
-## 👋 About Me
+## 👋 whoami
 
-```js
-const kirtan = {
-  role: "Aspiring Full Stack Developer",
-  location: "Surat, Gujarat, India 🇮🇳",
-  education: "BCA @ Vidhyadeep University — Class of 2027",
-  stack: ["React", "Vue.js", "Supabase", "Cloudflare Workers", "AWS"],
-  currentlyBuilding: "Netpoint — a live SaaS platform",
-  lookingFor: "Fresher Frontend / Full Stack roles",
-  funFact: "I ship side projects faster than I finish my syllabus 😅",
-};
-```
+<div align="center">
+
+<code>kirtan@github:~$ ./init.sh</code>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=8000&repeat=false&color=39FF14&background=0D1117&center=false&vCenter=true&width=650&height=210&lines=%5B+OK+%5D+mounting+%2Fsurat%2Fgujarat%2Findia%0A%5B+OK+%5D+loading+education.module+%28BCA+%40+Vidhyadeep+University%2C+2027%29%0A%5B+OK+%5D+initializing+stack%3A+React%2C+Vue.js%2C+Supabase%2C+Cloudflare%2C+AWS%0A%5BWARN%5D+sleep_schedule.service+...+not+found%0A%5B+OK+%5D+spawned+process%3A+netpoint+%28status%3A+LIVE%29%0A%5B+OK+%5D+background+jobs%3A+task-tracker%2C+cold-calling-crm%0A%5BREADY%5D+accepting+connections%3A+fresher+web+dev+roles+%28Surat%29%0Akirtan%40github%3A~%24+_" alt="boot sequence" />
+
+</div>
 
 <br>
 
