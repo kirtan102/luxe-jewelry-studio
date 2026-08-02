@@ -1,0 +1,185 @@
+<svg width="760" height="140" viewBox="0 0 760 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      text { font-family: "SF Mono", Consolas, Menlo, "Courier New", monospace; }
+    </style>
+    <style>
+      .base-text { fill: #111111; }
+      @media (prefers-color-scheme: dark) { .base-text { fill: #f2f2f2; } }
+    </style>
+  </defs>
+  <g>
+    <g transform="translate(37,70)">
+      <circle cx="0" cy="20" r="0" fill="#60a5fa" opacity="0.8">
+        <animate attributeName="r" values="0;11;0" dur="0.3s" begin="0.20s" fill="freeze"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.3s" begin="0.20s" fill="freeze"/>
+      </circle>
+      <g opacity="0">
+        <text x="-17" y="20" font-size="56" font-weight="700" class="base-text">K</text>
+        <animate attributeName="opacity" begin="0.20s" dur="0.01s" to="1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale"
+          values="1.6;0.88;1.05;1" keyTimes="0;0.5;0.78;1" dur="0.28s" begin="0.20s"
+          fill="freeze" calcMode="spline"
+          keySplines="0.3 0 0.6 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1"/>
+      </g>
+    </g>
+    <g transform="translate(71,70)">
+      <circle cx="0" cy="20" r="0" fill="#60a5fa" opacity="0.8">
+        <animate attributeName="r" values="0;11;0" dur="0.3s" begin="0.29s" fill="freeze"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.3s" begin="0.29s" fill="freeze"/>
+      </circle>
+      <g opacity="0">
+        <text x="-17" y="20" font-size="56" font-weight="700" class="base-text">i</text>
+        <animate attributeName="opacity" begin="0.29s" dur="0.01s" to="1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale"
+          values="1.6;0.88;1.05;1" keyTimes="0;0.5;0.78;1" dur="0.28s" begin="0.29s"
+          fill="freeze" calcMode="spline"
+          keySplines="0.3 0 0.6 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1"/>
+      </g>
+    </g>
+    <g transform="translate(105,70)">
+      <circle cx="0" cy="20" r="0" fill="#60a5fa" opacity="0.8">
+        <animate attributeName="r" values="0;11;0" dur="0.3s" begin="0.37s" fill="freeze"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.3s" begin="0.37s" fill="freeze"/>
+      </circle>
+      <g opacity="0">
+        <text x="-17" y="20" font-size="56" font-weight="700" class="base-text">r</text>
+        <animate attributeName="opacity" begin="0.37s" dur="0.01s" to="1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale"
+          values="1.6;0.88;1.05;1" keyTimes="0;0.5;0.78;1" dur="0.28s" begin="0.37s"
+          fill="freeze" calcMode="spline"
+          keySplines="0.3 0 0.6 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1"/>
+      </g>
+    </g>
+    <g transform="translate(139,70)">
+      <circle cx="0" cy="20" r="0" fill="#60a5fa" opacity="0.8">
+        <animate attributeName="r" values="0;11;0" dur="0.3s" begin="0.47s" fill="freeze"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.3s" begin="0.47s" fill="freeze"/>
+      </circle>
+      <g opacity="0">
+        <text x="-17" y="20" font-size="56" font-weight="700" class="base-text">t</text>
+        <animate attributeName="opacity" begin="0.47s" dur="0.01s" to="1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale"
+          values="1.6;0.88;1.05;1" keyTimes="0;0.5;0.78;1" dur="0.28s" begin="0.47s"
+          fill="freeze" calcMode="spline"
+          keySplines="0.3 0 0.6 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1"/>
+      </g>
+    </g>
+    <g transform="translate(173,70)">
+      <circle cx="0" cy="20" r="0" fill="#60a5fa" opacity="0.8">
+        <animate attributeName="r" values="0;11;0" dur="0.3s" begin="0.54s" fill="freeze"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.3s" begin="0.54s" fill="freeze"/>
+      </circle>
+      <g opacity="0">
+        <text x="-17" y="20" font-size="56" font-weight="700" class="base-text">a</text>
+        <animate attributeName="opacity" begin="0.54s" dur="0.01s" to="1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale"
+          values="1.6;0.88;1.05;1" keyTimes="0;0.5;0.78;1" dur="0.28s" begin="0.54s"
+          fill="freeze" calcMode="spline"
+          keySplines="0.3 0 0.6 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1"/>
+      </g>
+    </g>
+    <g transform="translate(207,70)">
+      <circle cx="0" cy="20" r="0" fill="#60a5fa" opacity="0.8">
+        <animate attributeName="r" values="0;11;0" dur="0.3s" begin="0.63s" fill="freeze"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.3s" begin="0.63s" fill="freeze"/>
+      </circle>
+      <g opacity="0">
+        <text x="-17" y="20" font-size="56" font-weight="700" class="base-text">n</text>
+        <animate attributeName="opacity" begin="0.63s" dur="0.01s" to="1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale"
+          values="1.6;0.88;1.05;1" keyTimes="0;0.5;0.78;1" dur="0.28s" begin="0.63s"
+          fill="freeze" calcMode="spline"
+          keySplines="0.3 0 0.6 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1"/>
+      </g>
+    </g>
+    <g transform="translate(275,70)">
+      <circle cx="0" cy="20" r="0" fill="#60a5fa" opacity="0.8">
+        <animate attributeName="r" values="0;11;0" dur="0.3s" begin="0.89s" fill="freeze"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.3s" begin="0.89s" fill="freeze"/>
+      </circle>
+      <g opacity="0">
+        <text x="-17" y="20" font-size="56" font-weight="700" class="base-text">J</text>
+        <animate attributeName="opacity" begin="0.89s" dur="0.01s" to="1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale"
+          values="1.6;0.88;1.05;1" keyTimes="0;0.5;0.78;1" dur="0.28s" begin="0.89s"
+          fill="freeze" calcMode="spline"
+          keySplines="0.3 0 0.6 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1"/>
+      </g>
+    </g>
+    <g transform="translate(309,70)">
+      <circle cx="0" cy="20" r="0" fill="#60a5fa" opacity="0.8">
+        <animate attributeName="r" values="0;11;0" dur="0.3s" begin="0.99s" fill="freeze"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.3s" begin="0.99s" fill="freeze"/>
+      </circle>
+      <g opacity="0">
+        <text x="-17" y="20" font-size="56" font-weight="700" class="base-text">a</text>
+        <animate attributeName="opacity" begin="0.99s" dur="0.01s" to="1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale"
+          values="1.6;0.88;1.05;1" keyTimes="0;0.5;0.78;1" dur="0.28s" begin="0.99s"
+          fill="freeze" calcMode="spline"
+          keySplines="0.3 0 0.6 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1"/>
+      </g>
+    </g>
+    <g transform="translate(343,70)">
+      <circle cx="0" cy="20" r="0" fill="#60a5fa" opacity="0.8">
+        <animate attributeName="r" values="0;11;0" dur="0.3s" begin="1.07s" fill="freeze"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.3s" begin="1.07s" fill="freeze"/>
+      </circle>
+      <g opacity="0">
+        <text x="-17" y="20" font-size="56" font-weight="700" class="base-text">v</text>
+        <animate attributeName="opacity" begin="1.07s" dur="0.01s" to="1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale"
+          values="1.6;0.88;1.05;1" keyTimes="0;0.5;0.78;1" dur="0.28s" begin="1.07s"
+          fill="freeze" calcMode="spline"
+          keySplines="0.3 0 0.6 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1"/>
+      </g>
+    </g>
+    <g transform="translate(377,70)">
+      <circle cx="0" cy="20" r="0" fill="#60a5fa" opacity="0.8">
+        <animate attributeName="r" values="0;11;0" dur="0.3s" begin="1.16s" fill="freeze"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.3s" begin="1.16s" fill="freeze"/>
+      </circle>
+      <g opacity="0">
+        <text x="-17" y="20" font-size="56" font-weight="700" class="base-text">i</text>
+        <animate attributeName="opacity" begin="1.16s" dur="0.01s" to="1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale"
+          values="1.6;0.88;1.05;1" keyTimes="0;0.5;0.78;1" dur="0.28s" begin="1.16s"
+          fill="freeze" calcMode="spline"
+          keySplines="0.3 0 0.6 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1"/>
+      </g>
+    </g>
+    <g transform="translate(411,70)">
+      <circle cx="0" cy="20" r="0" fill="#60a5fa" opacity="0.8">
+        <animate attributeName="r" values="0;11;0" dur="0.3s" begin="1.23s" fill="freeze"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.3s" begin="1.23s" fill="freeze"/>
+      </circle>
+      <g opacity="0">
+        <text x="-17" y="20" font-size="56" font-weight="700" class="base-text">y</text>
+        <animate attributeName="opacity" begin="1.23s" dur="0.01s" to="1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale"
+          values="1.6;0.88;1.05;1" keyTimes="0;0.5;0.78;1" dur="0.28s" begin="1.23s"
+          fill="freeze" calcMode="spline"
+          keySplines="0.3 0 0.6 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1"/>
+      </g>
+    </g>
+    <g transform="translate(445,70)">
+      <circle cx="0" cy="20" r="0" fill="#60a5fa" opacity="0.8">
+        <animate attributeName="r" values="0;11;0" dur="0.3s" begin="1.33s" fill="freeze"/>
+        <animate attributeName="opacity" values="0.8;0" dur="0.3s" begin="1.33s" fill="freeze"/>
+      </circle>
+      <g opacity="0">
+        <text x="-17" y="20" font-size="56" font-weight="700" class="base-text">a</text>
+        <animate attributeName="opacity" begin="1.33s" dur="0.01s" to="1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale"
+          values="1.6;0.88;1.05;1" keyTimes="0;0.5;0.78;1" dur="0.28s" begin="1.33s"
+          fill="freeze" calcMode="spline"
+          keySplines="0.3 0 0.6 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1"/>
+      </g>
+    </g>
+    <rect x="462" y="52" width="10" height="46" fill="#8a8a99" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.41s" dur="0.01s" fill="freeze"/>
+      <animate attributeName="opacity" begin="1.41s" dur="1s" values="1;0;1" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
