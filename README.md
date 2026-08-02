@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="./name-banner-keystroke.svg" alt="terminal" width="560" />
+<img src="./kirtan-javiya-tetris.svg" alt="terminal" width="560" />
 
 </div>
 
