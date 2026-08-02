@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="./terminal.svg" alt="terminal" width="560" />
+<img src="./terminal-dark.svg" alt="terminal" width="560" />
 
 </div>
 
