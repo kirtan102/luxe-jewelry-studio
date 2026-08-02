@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="./terminal-light.svg" alt="terminal" width="560" />
+<img src="./terminal-adaptive_1.svg" alt="terminal" width="560" />
 
 </div>
 
